@@ -1,5 +1,5 @@
 # Noise Conditioned Graph Networks
-Official code for [Geometric Generative Modeling with Noise Conditioned Graph Networks]() by Peter Pao-Huang, Mitchell Black, and Xiaojie Qiu. 
+Official code for [Geometric Generative Modeling with Noise Conditioned Graph Networks](http://arxiv.org/abs/2507.09391) by Peter Pao-Huang, Mitchell Black, and Xiaojie Qiu. 
 
 **Noise Conditional Graph Networks (NCGNs)** are a new class of graph neural networks for more efficient and expressive generative modeling.
 
